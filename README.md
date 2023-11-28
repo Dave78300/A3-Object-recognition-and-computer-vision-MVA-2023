@@ -1,1 +1,1 @@
-# Object recognition and computer vision 2023
+# Object-recognition-and-computer-vision-2023
