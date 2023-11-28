@@ -1,3 +1,3 @@
-# Object-recognition-and-computer-vision-2023
-## Assignement 3
+# Assignment-3-Object-recognition-and-computer-vision-2023
+
 
